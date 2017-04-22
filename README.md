@@ -37,6 +37,9 @@ Challenge 1: When the user runs the app, the 10 items for sale in Bamazon are di
 
 -------------
 
+![screenshot 50 _li](https://cloud.githubusercontent.com/assets/22464553/25300116/f3415d56-26bc-11e7-9751-0c01bac1fa9a.jpg)
+![screenshot 51](https://cloud.githubusercontent.com/assets/22464553/25300115/f34020ee-26bc-11e7-9713-f3f573e3be2c.png)
+![screenshot 52 _li](https://cloud.githubusercontent.com/assets/22464553/25300117/f341a1f8-26bc-11e7-967e-555587534198.jpg)
 
 
 
